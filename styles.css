@@ -1,0 +1,19 @@
+a {
+color: darkGray;
+font-family: "Bodoni MT", Didot;
+fon-size: 25px;
+}
+
+a:hover {
+color: B20933;
+}
+
+body {
+color: darkGray;
+font-family: Chivo;
+font-size: 14px;
+font-style: normal;
+font-variant: normal;
+font-weight: 400;
+line-height: 20px;
+background-image: url(https://images.unsplash.com/photo-1422284763110-6d0edd657b13?q=80&fm=jpg&s=8c5721f5e952f910b0633f85f8a92450)
